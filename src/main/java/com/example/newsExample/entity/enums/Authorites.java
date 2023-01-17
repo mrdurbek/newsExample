@@ -1,0 +1,22 @@
+package com.example.newsExample.entity.enums;
+
+public enum Authorites {
+	
+	ADD_USER,
+	EDIT_USER,
+	DELETE_USER,
+	WIEW_USERS,
+	WIEW_USER,
+	ADD_ROLE,
+	EDIT_ROLE,
+	WIEW_ROLES,
+	DELETE_ROLE,
+	ADD_POST,
+	DELETE_POST,
+	DELETE_MY_POST,
+	EDIT_POST,
+	ADD_COMMENT,
+	EDIT_COMMENT,
+	DELETE_COMMENT,
+	DELETE_MY_COMMENT
+}
